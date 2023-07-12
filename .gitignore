@@ -26,3 +26,4 @@ boards.local.txt
 .vs/
 __vm/
 *.vcxproj*
+arduino-cli.yaml
